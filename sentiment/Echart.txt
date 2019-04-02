@@ -1,0 +1,71 @@
+app.title = '»·ÐÎÍ¼';
+
+option = {
+    title: {
+        text: 'SENG Sentiment',
+        left: 'center',
+        top: 40,
+        textStyle: {
+            color: '#ccc'
+        }
+    },
+    
+    tooltip: {
+        trigger: 'item',
+        formatter: "{a} <br/>{b}: {c} ({d}%)"
+    },
+   legend: {
+        x : 'center',
+        y : 'bottom',
+        data:['Anger','Anticipation','Disgust','Fear','Joy','Sadness','Surprise']
+    },
+    toolbox: {
+        show : true,
+        feature : {
+            mark : {show: true},
+            dataView : {show: true, readOnly: false},
+            magicType : {
+                show: true,
+                type: ['pie', 'funnel']
+            },
+            restore : {show: true},
+            saveAsImage : {show: true}
+        }
+    },
+    calculable : true,
+    series: [
+        {
+            name:'Sentiment',
+            type:'pie',
+            radius: ['30%', '50%'],
+            avoidLabelOverlap: false,
+            label: {
+                normal: {
+                    show: false,
+                    position: 'center'
+                },
+                emphasis: {
+                    show: true,
+                    textStyle: {
+                        fontSize: '30',
+                        fontWeight: 'bold'
+                    }
+                }
+            },
+            labelLine: {
+                normal: {
+                    show: false
+                }
+            },
+            data:[
+                {value:449, name:'Anger'},
+                {value:2703, name:'Anticipation'},
+                {value:375, name:'Disgust'},
+                {value:904, name:'Fear'},
+                {value:2521, name:'Joy'},
+                {value:643, name:'Sadness'},
+                {value:1227, name:'Surprise'},
+            ]
+        }
+    ]
+};

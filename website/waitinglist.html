@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.axis--x path {
+  /* display: none; */
+  stroke-width: 2px;
+  stroke: #dddddd;
+}
+
+.axis--y path {
+  stroke-width: 2px;
+  stroke: #dddddd;
+}
+
+.axis--x text, .axis--y text, .legend text {
+  font-family: "acta-display", serif;
+  font-size: 10px;
+  fill: #dddddd;
+}
+
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+
+}
+
+.lrc {
+  color: #dddddd;
+  font-family: "acta-display", serif;
+  font-size: 16px;
+}
+
+</style>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Waiting List</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <header>
+    <div class="inner">
+
+      <!--When the window is compressed-->
+      <div class="burger"></div> 
+
+      <nav>
+        <a href="sentiment.html">Sentiment</a>
+        <a href="wordcloud.html">Word Cloud</a>
+        <a href="course_rating.html">Course Rating</a>
+        <a href="sfq_ranking.html">SFQ Ranking</a>
+        <a class="active" href="#">Waiting List</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="background-color: #23272A">
+    <div id="slider">
+
+      <div id="container" style="height: 100%; width: 100%; position: relative; top:95px; left: 175px; right: 175px">
+
+        <div class="lrc" id="test">
+          <p id="menu" class="menuchoice">Select a course: &nbsp
+          <select id="select_course" onchange='getSelectedValue();'>
+            <option value="ISOM2500">ISOM2500</option>
+            <option value="SOSC1960">SOSC1960</option>
+            <option value="SOSC1980">SOSC1980</option>
+            <option value="MATH1014">MATH1014</option>
+            <option value="COMP1021">COMP1021</option>
+            <option value="COMP1022Q">COMP1022Q</option>
+            <option value="HUMA1000A">HUMA1000A</option>
+            <option value="ECON2103">ECON2103</option>
+          </select>
+
+
+          <svg id="svg" width="960" height="500"></svg>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js'></script>
+  <script src="js/index.js"></script>
+  <script src="//d3js.org/d3.v4.min.js"></script>
+  <script>
+
+var color = ["#a50f15", "#de2d26", "#fb6a4a", "#fcae91", "#dec5b9", "#cdd8c9", "#bae4b3", "#74c476", "#31a354", "#006d2c"];
+  
+  getSelectedValue()
+
+  var parseTime = d3.timeParse("%Y-%m-%d %H:%M:%S");
+
+
+
+  function getSelectedValue() {
+
+  var course = document.getElementById('select_course').value;
+  console.log(course);
+  var elem = document.getElementById('svg');
+  elem.parentNode.removeChild(elem);
+  var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  svg.setAttribute('width', '900');
+  svg.setAttribute('height', '400');
+  svg.setAttribute('id', 'svg');
+  document.getElementById('test').appendChild(svg);
+
+  var filename = course + ".tsv"
+
+  var svg = d3.select("svg"),
+      margin = {top: 20, right: 80, bottom: 30, left: 50},
+      width = svg.attr("width") - margin.left - margin.right,
+      height = svg.attr("height") - margin.top - margin.bottom,
+      g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  var x = d3.scaleTime().range([0, width]),
+      y = d3.scaleLinear().range([height, 0]),
+      z = d3.scaleOrdinal(d3.schemeCategory10);
+
+  var line = d3.line()
+      .curve(d3.curveBasis)
+      .x(function(d) { return x(d.time); })
+      .y(function(d) { return y(d.temperature); });
+
+  d3.tsv(filename, type, function(error, data) {
+    if (error) throw error;
+
+    var cities = data.columns.slice(1).map(function(id) {
+      return {
+        id: id,
+        values: data.map(function(d) {
+          return {time: d.time, temperature: d[id]};
+        })
+      };
+    });
+
+    x.domain(d3.extent(data, function(d) { return d.time; }));
+
+    y.domain([
+      d3.min(cities, function(c) { return d3.min(c.values, function(d) { return d.temperature; }); }),
+      d3.max(cities, function(c) { return d3.max(c.values, function(d) { return d.temperature; }); })
+    ]);
+
+    z.domain(cities.map(function(c) { return c.id; }));
+
+    g.append("g")
+        .attr("class", "axis axis--x")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+    g.append("g")
+        .attr("class", "axis axis--y")
+        .call(d3.axisLeft(y))
+      .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", "0.71em")
+        .attr("fill", "#000")
+        .text("Waitlist Size");
+
+    var city = g.selectAll(".city")
+      .data(cities)
+      .enter().append("g")
+        .attr("class", "city");
+
+    city.append("path")
+        .attr("class", "line")
+        .attr("d", function(d) { return line(d.values); })
+        .style("stroke", function(d) { return z(d.id); });
+
+    city.append("text")
+        .datum(function(d) { return {id: d.id, value: d.values[d.values.length - 1]}; })
+        //.attr("transform", function(d) { return "translate(" + x(d.value.time) + "," + y(d.value.temperature) + ")"; })
+        .attr("class", "legend")
+        .attr('x', width - 4)
+        .attr('y', function(d, i){ return (i *  20) + 9;})
+        .style("fill", "#dddddd")
+        .style("font-size", 12)
+        .text(function(d) { return d.id; });
+
+    city.append("rect")
+        .datum(function(d) { return {id: d.id, value: d.values[d.values.length - 1]}; })
+        //.attr("transform", function(d) { return "translate(" + x(d.value.time) + "," + y(d.value.temperature) + ")"; })
+        .attr('x', width - 8)
+        .attr('y', function(d, i){ return (i *  20) + 9;})
+        .attr('x', width - 20)
+        .attr('y', function(d, i){ return i *  20;})
+        .attr('width', 10)
+        .attr('height', 10)
+        .style('fill', function(d) {
+          return z(d.id);
+        });
+
+
+
+
+  });
+
+  }
+
+  function type(d, _, columns) {
+    d.time = parseTime(d.time);
+    for (var i = 1, n = columns.length, c; i < n; ++i) d[c = columns[i]] = +d[c];
+    return d;
+  }
+
+  </script>
+</html>

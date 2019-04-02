@@ -1,0 +1,812 @@
+
+Rating of CHEM2410:
+Content:	B
+Teaching:	C-
+Grading:	C+
+Workload:	A-
+
+
+Rating of CHEM3320:
+Content:	C-
+Teaching:	C-
+Grading:	C
+Workload:	C-
+
+
+Rating of CHEM1050:
+Content:	B+
+Teaching:	B
+Grading:	B+
+Workload:	B+
+
+
+Rating of CHEM2310:
+Content:	D+
+Teaching:	C-
+Grading:	C+
+Workload:	C
+
+
+Rating of CHEM1010:
+Content:	B
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of CHEM2110:
+Content:	C
+Teaching:	D+
+Grading:	B-
+Workload:	C+
+
+
+Rating of CHEM3420:
+Content:	B
+Teaching:	A
+Grading:	A-
+Workload:	A
+
+
+Rating of CHEM2311:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	A-
+
+
+Rating of CHEM3120:
+Content:	B-
+Teaching:	C-
+Grading:	C+
+Workload:	C+
+
+
+Rating of CHEM4320:
+Content:	C-
+Teaching:	D-
+Grading:	C-
+Workload:	B-
+
+
+Rating of CHEM1004:
+Content:	B
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of CHEM1055:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	B+
+
+
+Rating of CHEM3220:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	A-
+
+
+Rating of CHEM1020:
+Content:	B-
+Teaching:	C
+Grading:	B
+Workload:	B+
+
+
+Rating of CHEM2210:
+Content:	B+
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of CHEM1030:
+Content:	B
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of CHEM1002:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	A
+
+
+Rating of ENVS2001:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	A-
+
+
+Rating of ENVS3003:
+Content:	A-
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of LIFS3040:
+Content:	B+
+Teaching:	B+
+Grading:	C+
+Workload:	B-
+
+
+Rating of LIFS4950:
+Content:	B-
+Teaching:	B
+Grading:	B
+Workload:	B-
+
+
+Rating of LIFS3160:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	A-
+
+
+Rating of LIFS4370:
+Content:	B+
+Teaching:	B+
+Grading:	C
+Workload:	C
+
+
+Rating of LIFS3140:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	C
+
+
+Rating of LIFS2040:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	B
+
+
+Rating of LIFS1902:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B+
+
+
+Rating of LIFS1901:
+Content:	B-
+Teaching:	C+
+Grading:	B+
+Workload:	B+
+
+
+Rating of LIFS2010:
+Content:	B+
+Teaching:	A-
+Grading:	B-
+Workload:	B-
+
+
+Rating of LIFS3260:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	C
+
+
+Rating of LIFS1010:
+Content:	B+
+Teaching:	B-
+Grading:	A-
+Workload:	A-
+
+
+Rating of LIFS3010:
+Content:	B
+Teaching:	B-
+Grading:	A-
+Workload:	B-
+
+
+Rating of LIFS2720:
+Content:	A
+Teaching:	B
+Grading:	B
+Workload:	B
+
+
+Rating of LIFS1903:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	C
+
+
+Rating of LIFS2220:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of LIFS2080:
+Content:	B-
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of LIFS1020:
+Content:	B
+Teaching:	B-
+Grading:	B+
+Workload:	B
+
+
+Rating of LIFS2210:
+Content:	B+
+Teaching:	B
+Grading:	B
+Workload:	B+
+
+
+Rating of LIFS3130:
+Content:	B
+Teaching:	B-
+Grading:	B+
+Workload:	B
+
+
+Rating of LIFS2060:
+Content:	B-
+Teaching:	B-
+Grading:	B-
+Workload:	B+
+
+
+Rating of LIFS3070:
+Content:	B
+Teaching:	B
+Grading:	A-
+Workload:	C
+
+
+Rating of LIFS4150:
+Content:	B+
+Teaching:	C+
+Grading:	A
+Workload:	B-
+
+
+Rating of LIFS1030:
+Content:	C+
+Teaching:	C
+Grading:	B-
+Workload:	B-
+
+
+Rating of LIFS4200:
+Content:	A
+Teaching:	A-
+Grading:	A-
+Workload:	C
+
+
+Rating of LIFS2280:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of LIFS3150:
+Content:	A-
+Teaching:	C
+Grading:	A-
+Workload:	B
+
+
+Rating of LIFS2070:
+Content:	C+
+Teaching:	D
+Grading:	C+
+Workload:	B-
+
+
+Rating of LIFS1904:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	C+
+
+
+Rating of LIFS4580:
+Content:	C+
+Teaching:	C+
+Grading:	B+
+Workload:	A
+
+
+Rating of LIFS3330:
+Content:	A-
+Teaching:	C
+Grading:	B
+Workload:	B-
+
+
+Rating of LIFS3060:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	C+
+
+
+Rating of LIFS1930:
+Content:	B
+Teaching:	B
+Grading:	B+
+Workload:	B+
+
+
+Rating of LIFS3110:
+Content:	A
+Teaching:	B
+Grading:	A-
+Workload:	C
+
+
+Rating of LIFS4760:
+Content:	B
+Teaching:	A-
+Grading:	B+
+Workload:	A-
+
+
+Rating of MATH4511:
+Content:	B-
+Teaching:	D+
+Grading:	C-
+Workload:	B-
+
+
+Rating of MATH1014:
+Content:	C+
+Teaching:	C+
+Grading:	C+
+Workload:	C+
+
+
+Rating of MATH3312:
+Content:	B
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of MATH3033:
+Content:	B-
+Teaching:	B+
+Grading:	B-
+Workload:	B+
+
+
+Rating of MATH2343:
+Content:	B
+Teaching:	B-
+Grading:	A-
+Workload:	A
+
+
+Rating of MATH2131:
+Content:	A-
+Teaching:	B-
+Grading:	B-
+Workload:	C-
+
+
+Rating of MATH2350:
+Content:	C-
+Teaching:	D-
+Grading:	C
+Workload:	C+
+
+
+Rating of MATH2011:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of MATH4141:
+Content:	A-
+Teaching:	A-
+Grading:	B-
+Workload:	B
+
+
+Rating of MATH1023:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	C
+
+
+Rating of MATH2023:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	B-
+
+
+Rating of MATH2411:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	B+
+
+
+Rating of MATH1003:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B
+
+
+Rating of MATH1020:
+Content:	B
+Teaching:	C
+Grading:	C-
+Workload:	B-
+
+
+Rating of MATH2121:
+Content:	B
+Teaching:	C+
+Grading:	B
+Workload:	B+
+
+
+Rating of MATH2111:
+Content:	B
+Teaching:	C+
+Grading:	B-
+Workload:	B
+
+
+Rating of MATH2421:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B-
+
+
+Rating of MATH1013:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	B-
+
+
+Rating of MATH3121:
+Content:	B+
+Teaching:	C+
+Grading:	B+
+Workload:	A-
+
+
+Rating of MATH2741:
+Content:	A
+Teaching:	B
+Grading:	A
+Workload:	A
+
+
+Rating of MATH3423:
+Content:	A-
+Teaching:	C+
+Grading:	C+
+Workload:	C
+
+
+Rating of MATH4052:
+Content:	B-
+Teaching:	C+
+Grading:	B
+Workload:	B-
+
+
+Rating of MATH2352:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	B
+
+
+Rating of MATH2511:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B
+
+
+Rating of MATH2033:
+Content:	B-
+Teaching:	B-
+Grading:	B
+Workload:	B-
+
+
+Rating of MATH1024:
+Content:	B-
+Teaching:	A-
+Grading:	B+
+Workload:	B-
+
+
+Rating of MATH1012:
+Content:	C+
+Teaching:	C
+Grading:	B-
+Workload:	B-
+
+
+Rating of MATH4223:
+Content:	B-
+Teaching:	B-
+Grading:	D+
+Workload:	C-
+
+
+Rating of MATH2351:
+Content:	B
+Teaching:	C+
+Grading:	C+
+Workload:	B+
+
+
+Rating of PHYS3040:
+Content:	B+
+Teaching:	B-
+Grading:	A
+Workload:	A
+
+
+Rating of PHYS3033:
+Content:	A-
+Teaching:	B
+Grading:	C+
+Workload:	C+
+
+
+Rating of PHYS4058:
+Content:	A
+Teaching:	A
+Grading:	A-
+Workload:	C
+
+
+Rating of PHYS1114:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of PHYS1112:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	C+
+
+
+Rating of PHYS3037:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of PHYS1002:
+Content:	B+
+Teaching:	B
+Grading:	A-
+Workload:	A-
+
+
+Rating of PHYS1314:
+Content:	B
+Teaching:	C+
+Grading:	B+
+Workload:	C-
+
+
+Rating of PHYS4051:
+Content:	A-
+Teaching:	A
+Grading:	B
+Workload:	B
+
+
+Rating of PHYS3053:
+Content:	A-
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of PHYS2023:
+Content:	C+
+Teaching:	C+
+Grading:	C-
+Workload:	C
+
+
+Rating of PHYS3034:
+Content:	A-
+Teaching:	B
+Grading:	B-
+Workload:	B
+
+
+Rating of PHYS1003:
+Content:	C
+Teaching:	D+
+Grading:	B
+Workload:	B+
+
+
+Rating of PHYS3032:
+Content:	C-
+Teaching:	C-
+Grading:	B-
+Workload:	C-
+
+
+Rating of PHYS2080:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	A-
+
+
+Rating of PHYS3153:
+Content:	A
+Teaching:	A
+Grading:	A-
+Workload:	D
+
+
+Rating of PHYS3036:
+Content:	B+
+Teaching:	C+
+Grading:	C
+Workload:	C+
+
+
+Rating of PHYS1006:
+Content:	B
+Teaching:	B
+Grading:	A-
+Workload:	B
+
+
+Rating of PHYS1113:
+Content:	B
+Teaching:	B+
+Grading:	B
+Workload:	D+
+
+
+Rating of PHYS3142:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	B-
+
+
+Rating of PHYS3071:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	C
+
+
+Rating of PHYS1312:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	C+
+
+
+Rating of PHYS1001:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	A-
+
+
+Rating of PHYS1111:
+Content:	B-
+Teaching:	B-
+Grading:	B
+Workload:	B-
+
+
+Rating of PHYS2124:
+Content:	B+
+Teaching:	A-
+Grading:	A
+Workload:	A
+
+
+Rating of PHYS2022:
+Content:	B-
+Teaching:	B+
+Grading:	A-
+Workload:	B+
+
+
+Rating of PHYS4050:
+Content:	A-
+Teaching:	B-
+Grading:	B+
+Workload:	B-
+
+
+Rating of SCIE1050:
+Content:	A
+Teaching:	A-
+Grading:	B-
+Workload:	C
+
+
+Rating of SCIE1500:
+Content:	B
+Teaching:	B-
+Grading:	A-
+Workload:	A-
+
+
+Rating of SCIE1120:
+Content:	B-
+Teaching:	B-
+Grading:	C+
+Workload:	A-
+
+
+Rating of SCIE1000:
+Content:	B-
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of SCIE2000:
+Content:	B-
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of SCIE1130:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	A
+
+
+Rating of SCIE1110:
+Content:	B-
+Teaching:	B-
+Grading:	C+
+Workload:	B-
+

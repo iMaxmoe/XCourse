@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Sentiment</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+	<header>
+		<div class="inner">
+
+			<!--When the window is compressed-->
+			<div class="burger"></div> 
+
+			<nav>
+				<a class="active" href="#">Sentiment</a>
+				<a href="wordcloud.html">Word Cloud</a>
+				<a href="course_rating.html">Course Rating</a>
+				<a href="sfq_ranking.html">SFQ Ranking</a>
+				<a href="waitinglist.html">Waiting List</a>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<div id="slider">
+
+				<div id="slider-content" style="position: relative; top:150px; left: 70px">
+					<div class="meta">Happiest School</div>
+					<h2 id="slide-title">SENG</h2>
+					<div class="meta">SFQ Satisfacotry Rate</div>
+					<div id="slide-status">Course: 75.2% <br> Instructor: 79.7%</div>
+				</div>
+
+				<div id="container" style="height: 87%; width: 84%; position: relative; top:-270px; left: 230px"></div>
+
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
+				<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
+				<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
+				<script type="text/javascript">
+				var dom = document.getElementById("container");
+				var myChart = echarts.init(dom);
+				var app = {};
+				option = null;
+				app.title = '环形图';
+
+				option = {
+				    title: {
+				        left: 'center',
+				        top: 40,
+				        textStyle: {
+				            color: '#ccc'
+				        }
+				    },
+				    
+				    tooltip: {
+				        trigger: 'item',
+				        formatter: "{a} <br/>{b}: {c} ({d}%)"
+				    },
+				   legend: {
+				        x : 'center',
+				        bottom: 60,
+				        data: ['SENG','SBM','SHSS','SCI'],
+				        selectedMode: 'single',
+				        selected: {
+				            'SBM': false,
+				            'SHSS':false,
+				            'SSCI':false
+				        }
+				    },
+				    toolbox: {
+				        show : true,
+				        feature : {
+				            mark : {show: true},
+				            dataView : {show: true, readOnly: false},
+				            magicType : {
+				                show: true,
+				                type: ['pie', 'funnel']
+				            },
+				            restore : {show: true},
+				            saveAsImage : {show: true}
+				        }
+				    },
+				    calculable : true,
+				    series: [
+				        {
+				            name:'SENG',
+				            type:'pie',
+				            radius: ['30%', '50%'],
+				            avoidLabelOverlap: false,
+				            label: {
+				                normal: {
+				                    textStyle: {
+				                        color: 'rgba(255, 255, 255, 0.7)',
+				                        fontSize: 16,
+				                        fontWeight: 'bold'
+				                    }
+				                }
+				            },
+				            labelLine: {
+				                normal: {
+				                    lineStyle: {
+				                        color: 'rgba(255, 255, 255, 0.3)'
+				                    },
+				                    smooth: 0.2,
+				                    length: 10,
+				                    length2: 20
+				                }
+				            },
+				            data:[
+				                {value:449, name:'Anger'},
+				                {value:375, name:'Disgust'},
+				                {value:904, name:'Fear'},
+				                {value:2521, name:'Joy'},
+				                {value:643, name:'Sadness'},
+				                {value:1227, name:'Surprise'},
+				            ]
+				        },
+				        {
+				            name:'SBM',
+				            type:'pie',
+				            radius: ['30%', '50%'],
+				            avoidLabelOverlap: false,
+				            label: {
+				                normal: {
+				                    textStyle: {
+				                        color: 'rgba(255, 255, 255, 0.7)',
+				                        fontSize: 16,
+				                        fontWeight: 'bold'
+				                    }
+				                }
+				            },
+				            labelLine: {
+				                normal: {
+				                    lineStyle: {
+				                        color: 'rgba(255, 255, 255, 0.3)'
+				                    },
+				                    smooth: 0.2,
+				                    length: 10,
+				                    length2: 20
+				                }
+				            },
+				            data:[
+				                {value:745, name:'Anger'},
+				                {value:433, name:'Disgust'},
+				                {value:1610, name:'Fear'},
+				                {value:4025, name:'Joy'},
+				                {value:1067, name:'Sadness'},
+				                {value:1897, name:'Surprise'},
+				            ]
+				        },
+				        {
+				            name:'SHSS',
+				            type:'pie',
+				            radius: ['30%', '50%'],
+				            avoidLabelOverlap: false,
+				            label: {
+				                normal: {
+				                    textStyle: {
+				                        color: 'rgba(255, 255, 255, 0.7)',
+				                        fontSize: 16,
+				                        fontWeight: 'bold'
+				                    }
+				                }
+				            },
+				            labelLine: {
+				                normal: {
+				                    lineStyle: {
+				                        color: 'rgba(255, 255, 255, 0.3)'
+				                    },
+				                    smooth: 0.2,
+				                    length: 10,
+				                    length2: 20
+				                }
+				            },
+				            data:[
+				                {value:676, name:'Anger'},
+				                {value:398, name:'Disgust'},
+				                {value:757, name:'Fear'},
+				                {value:2439, name:'Joy'},
+				                {value:1142, name:'Sadness'},
+				                {value:1050, name:'Surprise'},
+				            ]
+				        },
+				        {
+				            name:'SCI',
+				            type:'pie',
+				            radius: ['30%', '50%'],
+				            avoidLabelOverlap: false,
+				            label: {
+				                normal: {
+				                    textStyle: {
+				                        color: 'rgba(255, 255, 255, 0.7)',
+				                        fontSize: 16,
+				                        fontWeight: 'bold'
+				                    }
+				                }
+				            },
+				            labelLine: {
+				                normal: {
+				                    lineStyle: {
+				                        color: 'rgba(255, 255, 255, 0.3)'
+				                    },
+				                    smooth: 0.2,
+				                    length: 10,
+				                    length2: 20
+				                }
+				            },
+				            data:[
+				                {value:803, name:'Anger'},
+				                {value:725, name:'Disgust'},
+				                {value:1881, name:'Fear'},
+				                {value:3430, name:'Joy'},
+				                {value:1133, name:'Sadness'},
+				                {value:1824, name:'Surprise'},
+				            ]
+				        }
+				    ]
+				};
+				if (option && typeof option === "object") {
+				    myChart.setOption(option, true);
+				}
+				</script>
+		</div>
+	</main>
+  
+<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js'></script>
+<script src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

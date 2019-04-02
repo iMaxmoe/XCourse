@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+	<meta charset="UTF-8">
+	<title>SFQ Ranking</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Bootstrap -->
+	<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- CSS Style -->
+	<link rel="stylesheet" type="text/css" href="css/chart.css">
+
+</head>
+
+<body>
+
+	<header>
+		<div class="inner">
+
+			<!--When the window is compressed-->
+			<div class="burger"></div> 
+
+			<nav>
+				<a href="sentiment.html">Sentiment</a>
+				<a href="wordcloud.html">Word Cloud</a>
+				<a href="course_rating.html">Course Rating</a>
+				<a class="active" href="#">SFQ Ranking</a>
+				<a href="waitinglist.html">Waiting List</a>
+			</nav>
+		</div>
+	</header>
+
+	<main style="background-color: #23272A">
+		<div id="slider">
+
+			<div id="container" style="height: 100%; width: 100%; position: relative; top:55px; left: 0px">
+
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-2"><div class="row-head">SBM</div></div>
+		  		<div class="col-md-2"><div class="row-head">SENG</div></div>
+					<div class="col-md-2"><div class="row-head">SSCI</div></div>
+					<div class="col-md-2"><div class="row-head">SHSS</div></div>
+				</div>
+				<div class="row">
+					<div class="col-md-2"><div class="col-head">Top 5<br>Courses</div></div>
+		  		<div class="col-md-2"><svg class='chart' id="svg0"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg4"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg8"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg12"></svg></div>
+				</div>
+				<div class="row">
+					<div class="col-md-2"><div class="col-head">Bottom 5<br>Courses</div></div>
+		  		<div class="col-md-2"><svg class='chart' id="svg1"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg5"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg9"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg13"></svg></div>
+				</div>
+				<div class="row">
+					<div class="col-md-2"><div class="col-head">Top 5<br>Instructors</div></div>
+		  		<div class="col-md-2"><svg class='chart' id="svg2"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg6"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg10"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg14"></svg></div>
+				</div>
+				<div class="row">
+					<div class="col-md-2"><div class="col-head">Bottom 5<br>Instructors</div></div>
+		  		<div class="col-md-2"><svg class='chart' id="svg3"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg7"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg11"></svg></div>
+					<div class="col-md-2"><svg class='chart' id="svg15"></svg></div>
+				</div>
+				
+			</div>
+		</div>
+	</main>
+ </body>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js'></script>
+<script src="js/index.js"></script>
+
+<script src='http://d3js.org/d3.v3.min.js'></script>
+<script src="js/chart.js"></script>
+ <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>	
+	
+</html>

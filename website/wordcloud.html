@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Wordcloud</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <body class="loading">
+
+	<header>
+		<div class="inner">
+			<div class="burger"></div>
+			<nav>
+				<a href="sentiment.html">Sentiment</a>
+				<a href="wordcloud.html" class="active">Word Cloud</a>
+				<a href="course_rating.html">Course Rating</a>
+				<a href="sfq_ranking.html">SFQ Ranking</a>
+				<a href="waitinglist.html">Waiting List</a>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<div style="height: 4%; width: 44%; position: relative; top:150px; left: 550px">
+				<img id = 'pic_shown' src="seng.jpg"/>
+		</div>
+
+		<div id="slider">
+
+
+			<div class="slider-inner">
+				<div id="slider-content">
+					<div class="meta" >School</div>
+					<h2 id="slide-title">SENG</h2>
+					<div class="meta">Keyword</div>
+					<div id="slide-status">Lab, Programming, <br>Concept, Basic</div>
+				</div>
+			</div>
+
+			
+			<script type="text/javascript">
+				function button_seng(){
+					document.getElementById('pic_shown').src='seng.jpg';
+					document.getElementById('slide-title').innerHTML='SENG';
+					document.getElementById('slide-status').innerHTML='Lab, Programming, <br>Concept, Basic';
+					document.getElementById('1').className='active'
+					document.getElementById('2').className='inactive'
+					document.getElementById('3').className='inactive'
+					document.getElementById('4').className='inactive'
+				}
+
+				function button_sbm(){
+					document.getElementById('pic_shown').src='sbm.jpg';
+					document.getElementById('slide-title').innerHTML='SBM';
+					document.getElementById('slide-status').innerHTML='PPT, Accounting<br>Case, Business';
+					document.getElementById('1').className='inactive'
+					document.getElementById('2').className='active'
+					document.getElementById('3').className='inactive'
+					document.getElementById('4').className='inactive'
+				}
+
+				function button_shss(){
+					document.getElementById('pic_shown').src='shss.jpg';
+					document.getElementById('slide-title').innerHTML='SHSS'; 
+					document.getElementById('slide-status').innerHTML='Essay, English<br>History, Music';
+					document.getElementById('1').className='inactive'
+					document.getElementById('2').className='inactive'
+					document.getElementById('3').className='active'
+					document.getElementById('4').className='inactive'
+				}
+
+				function button_sci(){
+					document.getElementById('pic_shown').src='sci.jpg';
+					document.getElementById('slide-title').innerHTML='SCI';
+					document.getElementById('slide-status').innerHTML='Math, Physic, <br>Chapter, Understand';
+					document.getElementById('1').className='inactive'
+					document.getElementById('2').className='inactive'
+					document.getElementById('3').className='inactive'
+					document.getElementById('4').className='active'
+				}
+			</script>
+
+			<div id="pagination">
+				<button id = "1" class = "active" onclick= "button_seng()"></button>
+				<button id = "2" onclick= "button_sbm()"></button>
+				<button id = "3" onclick= "button_shss()"></button>
+				<button id = "4" onclick= "button_sci()"></button>
+			</div>
+
+		</div>
+	</main>	
+
+  </body>
+
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js'></script>
+	<script src="js/index.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,763 @@
+
+Rating of HART1041:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of HART1039:
+Content:	A
+Teaching:	A
+Grading:	B
+Workload:	A
+
+
+Rating of HART1013:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B-
+
+
+Rating of HART1040:
+Content:	A
+Teaching:	A
+Grading:	A-
+Workload:	A-
+
+
+Rating of HART1032:
+Content:	B-
+Teaching:	B
+Grading:	A
+Workload:	B-
+
+
+Rating of HART1018:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	C
+
+
+Rating of HART1017:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	C
+
+
+Rating of HART1045:
+Content:	E
+Teaching:	E
+Grading:	C
+Workload:	A
+
+
+Rating of HART1012:
+Content:	B
+Teaching:	B
+Grading:	C
+Workload:	A
+
+
+Rating of HART1027:
+Content:	B
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of HART1036:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	C-
+
+
+Rating of HART1020:
+Content:	A
+Teaching:	A-
+Grading:	A
+Workload:	A
+
+
+Rating of HART1030:
+Content:	A
+Teaching:	A
+Grading:	B
+Workload:	B
+
+
+Rating of HART1001:
+Content:	B
+Teaching:	B-
+Grading:	A-
+Workload:	C
+
+
+Rating of HUMA1811:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	A-
+
+
+Rating of HUMA2830:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	B-
+
+
+Rating of HUMA2104:
+Content:	B+
+Teaching:	B
+Grading:	B-
+Workload:	C-
+
+
+Rating of HUMA2589:
+Content:	B+
+Teaching:	B+
+Grading:	C+
+Workload:	C
+
+
+Rating of HUMA3430:
+Content:	C
+Teaching:	B-
+Grading:	B-
+Workload:	C
+
+
+Rating of HUMA2840:
+Content:	A
+Teaching:	A
+Grading:	B-
+Workload:	A-
+
+
+Rating of HUMA2050:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	A-
+
+
+Rating of HUMA1300:
+Content:	B+
+Teaching:	B
+Grading:	B-
+Workload:	B
+
+
+Rating of HUMA1000:
+Content:	B-
+Teaching:	C+
+Grading:	B+
+Workload:	B-
+
+
+Rating of HUMA2590:
+Content:	B+
+Teaching:	B-
+Grading:	B-
+Workload:	C-
+
+
+Rating of HUMA3200:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	C
+
+
+Rating of HUMA1920:
+Content:	B+
+Teaching:	B-
+Grading:	C+
+Workload:	C+
+
+
+Rating of HUMA2320:
+Content:	A
+Teaching:	A-
+Grading:	A
+Workload:	C-
+
+
+Rating of HUMA4020:
+Content:	D
+Teaching:	C
+Grading:	B-
+Workload:	A-
+
+
+Rating of HUMA3203:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	A
+
+
+Rating of HUMA1440:
+Content:	B-
+Teaching:	C-
+Grading:	C+
+Workload:	B-
+
+
+Rating of HUMA1250:
+Content:	A-
+Teaching:	B+
+Grading:	B-
+Workload:	A-
+
+
+Rating of HUMA3800:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B
+
+
+Rating of HUMA2103:
+Content:	B
+Teaching:	A-
+Grading:	C
+Workload:	D
+
+
+Rating of HUMA2400:
+Content:	B-
+Teaching:	B-
+Grading:	A-
+Workload:	A-
+
+
+Rating of HUMA2921:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of HUMA2010:
+Content:	B+
+Teaching:	B
+Grading:	A-
+Workload:	A-
+
+
+Rating of HUMA3202:
+Content:	B-
+Teaching:	B
+Grading:	B
+Workload:	B-
+
+
+Rating of HUMA1710:
+Content:	A-
+Teaching:	A
+Grading:	C
+Workload:	A
+
+
+Rating of HUMA1200:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	C
+
+
+Rating of HUMA1010:
+Content:	B+
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of HUMA1000A:
+Content:	C+
+Teaching:	B
+Grading:	B-
+Workload:	C-
+
+
+Rating of HUMA2660:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of HUMA2680:
+Content:	B-
+Teaching:	C-
+Grading:	B-
+Workload:	B
+
+
+Rating of HUMA3030:
+Content:	B
+Teaching:	B
+Grading:	B+
+Workload:	B+
+
+
+Rating of HUMA1020:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	A-
+
+
+Rating of HUMA2210:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	B-
+
+
+Rating of HUMA2633:
+Content:	B
+Teaching:	B-
+Grading:	B+
+Workload:	B-
+
+
+Rating of HUMA3630:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	B-
+
+
+Rating of HUMA1060:
+Content:	B
+Teaching:	A-
+Grading:	B+
+Workload:	A-
+
+
+Rating of HUMA1231:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	C+
+
+
+Rating of HUMA1100:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	C+
+
+
+Rating of HUMA1650:
+Content:	A-
+Teaching:	B+
+Grading:	A-
+Workload:	C-
+
+
+Rating of HUMA2430:
+Content:	B+
+Teaching:	A-
+Grading:	B-
+Workload:	C+
+
+
+Rating of HUMA2670:
+Content:	A-
+Teaching:	B-
+Grading:	B
+Workload:	B
+
+
+Rating of HUMA3220:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of HUMA3660:
+Content:	B
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of HUMA3210:
+Content:	A
+Teaching:	A-
+Grading:	A
+Workload:	A
+
+
+Rating of HUMA1030:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	A
+
+
+Rating of HUMA1001A:
+Content:	A-
+Teaching:	B+
+Grading:	B
+Workload:	A-
+
+
+Rating of HUMA1001:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of HUMA1102:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	B
+
+
+Rating of HUMA2031:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of HUMA2420:
+Content:	A-
+Teaching:	B+
+Grading:	A
+Workload:	A-
+
+
+Rating of HUMA1000B:
+Content:	B
+Teaching:	B-
+Grading:	A
+Workload:	C+
+
+
+Rating of HUMA3101:
+Content:	B+
+Teaching:	B+
+Grading:	B
+Workload:	C-
+
+
+Rating of HUMA3000A:
+Content:	B+
+Teaching:	A-
+Grading:	A
+Workload:	A
+
+
+Rating of HUMA1660:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of HUMA1810:
+Content:	B+
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of HUMA2105:
+Content:	B
+Teaching:	B+
+Grading:	A-
+Workload:	B-
+
+
+Rating of HUMA3810:
+Content:	A
+Teaching:	A
+Grading:	B
+Workload:	B
+
+
+Rating of SOSC4290:
+Content:	B+
+Teaching:	B-
+Grading:	A
+Workload:	C+
+
+
+Rating of SOSC1300:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of SOSC1460:
+Content:	A-
+Teaching:	B-
+Grading:	B-
+Workload:	A-
+
+
+Rating of SOSC1840:
+Content:	B
+Teaching:	B-
+Grading:	A-
+Workload:	A-
+
+
+Rating of SOSC1110:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of SOSC1440:
+Content:	A-
+Teaching:	B-
+Grading:	B+
+Workload:	B
+
+
+Rating of SOSC2120:
+Content:	B-
+Teaching:	B-
+Grading:	C-
+Workload:	B-
+
+
+Rating of SOSC1980:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of SOSC1850:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of SOSC1662:
+Content:	B-
+Teaching:	B
+Grading:	B-
+Workload:	B-
+
+
+Rating of SOSC1780:
+Content:	B-
+Teaching:	C
+Grading:	A
+Workload:	A-
+
+
+Rating of SOSC1190:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B
+
+
+Rating of SOSC1200:
+Content:	A-
+Teaching:	B+
+Grading:	A
+Workload:	B-
+
+
+Rating of SOSC2740:
+Content:	A-
+Teaching:	A-
+Grading:	B
+Workload:	B+
+
+
+Rating of SOSC2780:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of SOSC3120:
+Content:	A-
+Teaching:	B
+Grading:	B
+Workload:	A-
+
+
+Rating of SOSC2130:
+Content:	A-
+Teaching:	B+
+Grading:	C+
+Workload:	C+
+
+
+Rating of SOSC1270:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	A-
+
+
+Rating of SOSC3520:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of SOSC4260:
+Content:	A-
+Teaching:	B
+Grading:	B
+Workload:	C+
+
+
+Rating of SOSC2980:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	B-
+
+
+Rating of SOSC1340:
+Content:	A-
+Teaching:	B-
+Grading:	B
+Workload:	A-
+
+
+Rating of SOSC2290:
+Content:	B-
+Teaching:	C-
+Grading:	B+
+Workload:	B-
+
+
+Rating of SOSC3130:
+Content:	A
+Teaching:	A
+Grading:	B
+Workload:	B
+
+
+Rating of SOSC3240:
+Content:	B
+Teaching:	B-
+Grading:	A
+Workload:	A-
+
+
+Rating of SOSC1420:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B
+
+
+Rating of SOSC1100:
+Content:	B
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of SOSC1150:
+Content:	A-
+Teaching:	A
+Grading:	B+
+Workload:	B+
+
+
+Rating of SOSC1130:
+Content:	B
+Teaching:	A-
+Grading:	B
+Workload:	B+
+
+
+Rating of SOSC2280:
+Content:	B+
+Teaching:	B+
+Grading:	C+
+Workload:	C-
+
+
+Rating of SOSC3000C:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	C
+
+
+Rating of SOSC1661:
+Content:	B+
+Teaching:	C+
+Grading:	C+
+Workload:	A-
+
+
+Rating of SOSC1170:
+Content:	C+
+Teaching:	C-
+Grading:	C+
+Workload:	C-
+
+
+Rating of SOSC1210:
+Content:	A
+Teaching:	A
+Grading:	B+
+Workload:	A
+
+
+Rating of SOSC2640:
+Content:	A
+Teaching:	A
+Grading:	B
+Workload:	C
+
+
+Rating of SOSC1350:
+Content:	B-
+Teaching:	B-
+Grading:	B+
+Workload:	A-
+
+
+Rating of SOSC1960:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of SOSC2170:
+Content:	B
+Teaching:	B+
+Grading:	A-
+Workload:	B+
+
+
+Rating of SOSC2310:
+Content:	B
+Teaching:	B+
+Grading:	B+
+Workload:	C+
+

@@ -1,0 +1,4 @@
+filter:
+    response >= 10
+    response_rate >= 0.5
+    enrolment >= 40

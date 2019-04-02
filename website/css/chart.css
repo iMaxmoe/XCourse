@@ -1,0 +1,60 @@
+/*
+.chart rect {
+		fill: steelblue;
+}
+*/
+
+.chart text
+{
+	fill: white;
+  font-family: "acta-display", serif;
+  font-weight: 300;
+  font-size: 8px;
+	text-anchor: end;
+}
+
+.chart .label
+{
+	fill: white;
+  font-family: "acta-display", serif;
+  font-weight: 400;
+  font-size: 10px;
+	text-anchor: end;
+}
+
+.bar:hover
+{
+  opacity: 0.5;
+}
+
+.axis path,
+.axis line
+{
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.row-head
+{
+	text-align: center;
+  font-family: "acta-display", serif;
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -1px;
+  color: #dddddd;
+  line-height: 30px;
+  margin: 20px 125px 20px;
+}
+
+.col-head
+{
+	text-align: right;
+  font-family: "acta-display", serif;
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -1px;
+  color: #dddddd;
+  line-height: 30px;
+  margin: 20px 0 20px;
+}

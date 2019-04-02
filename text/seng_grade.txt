@@ -1,0 +1,980 @@
+
+Rating of COMP4511:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	D
+
+
+Rating of COMP3311:
+Content:	B
+Teaching:	B
+Grading:	C+
+Workload:	C+
+
+
+Rating of COMP1029P:
+Content:	A-
+Teaching:	B+
+Grading:	A-
+Workload:	A-
+
+
+Rating of COMP3632:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	C-
+
+
+Rating of COMP4651:
+Content:	A-
+Teaching:	A-
+Grading:	B-
+Workload:	B
+
+
+Rating of COMP1941:
+Content:	B+
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of COMP4621:
+Content:	B-
+Teaching:	A-
+Grading:	B
+Workload:	B+
+
+
+Rating of COMP1022P:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	B
+
+
+Rating of COMP1942:
+Content:	A-
+Teaching:	A
+Grading:	B+
+Workload:	A-
+
+
+Rating of COMP1021:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of COMP4431:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	B+
+
+
+Rating of COMP4631:
+Content:	B-
+Teaching:	C
+Grading:	C
+Workload:	C
+
+
+Rating of COMP3721:
+Content:	A
+Teaching:	B-
+Grading:	A-
+Workload:	A-
+
+
+Rating of COMP4900:
+Content:	B
+Teaching:	B
+Grading:	A
+Workload:	B
+
+
+Rating of COMP2011:
+Content:	B
+Teaching:	B
+Grading:	B-
+Workload:	C-
+
+
+Rating of COMP2521:
+Content:	B
+Teaching:	C-
+Grading:	A
+Workload:	D
+
+
+Rating of COMP2012:
+Content:	B-
+Teaching:	B+
+Grading:	B-
+Workload:	C+
+
+
+Rating of COMP3031:
+Content:	A
+Teaching:	A
+Grading:	A-
+Workload:	A-
+
+
+Rating of COMP4331:
+Content:	B+
+Teaching:	C
+Grading:	A-
+Workload:	B-
+
+
+Rating of COMP3711H:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of COMP3021:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of COMP4411:
+Content:	A
+Teaching:	C
+Grading:	A
+Workload:	C-
+
+
+Rating of COMP4021:
+Content:	C+
+Teaching:	B+
+Grading:	B+
+Workload:	C+
+
+
+Rating of COMP2711H:
+Content:	A
+Teaching:	A-
+Grading:	A-
+Workload:	C-
+
+
+Rating of COMP4421:
+Content:	B-
+Teaching:	C+
+Grading:	B-
+Workload:	B
+
+
+Rating of COMP4211:
+Content:	B-
+Teaching:	B
+Grading:	A-
+Workload:	B
+
+
+Rating of COMP4221:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	C
+
+
+Rating of COMP4332:
+Content:	A
+Teaching:	D
+Grading:	A
+Workload:	D
+
+
+Rating of COMP4311:
+Content:	B-
+Teaching:	A-
+Grading:	B
+Workload:	C
+
+
+Rating of COMP2711:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	B-
+
+
+Rating of COMP2021:
+Content:	B+
+Teaching:	C+
+Grading:	B+
+Workload:	B-
+
+
+Rating of COMP4441:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of COMP4451:
+Content:	B
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of COMP3111:
+Content:	C-
+Teaching:	C
+Grading:	C
+Workload:	D+
+
+
+Rating of COMP1001:
+Content:	B-
+Teaching:	B
+Grading:	B-
+Workload:	C+
+
+
+Rating of COMP3111H:
+Content:	B
+Teaching:	B+
+Grading:	A
+Workload:	B+
+
+
+Rating of COMP1022Q:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of COMP3211:
+Content:	A-
+Teaching:	B+
+Grading:	A
+Workload:	A
+
+
+Rating of COMP1029V:
+Content:	B
+Teaching:	C+
+Grading:	B+
+Workload:	C
+
+
+Rating of COMP4632:
+Content:	A
+Teaching:	B
+Grading:	B
+Workload:	A
+
+
+Rating of COMP3511:
+Content:	C+
+Teaching:	B-
+Grading:	C+
+Workload:	B-
+
+
+Rating of COMP1029C:
+Content:	B
+Teaching:	B
+Grading:	B+
+Workload:	B+
+
+
+Rating of COMP3711:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	B-
+
+
+Rating of COMP2012H:
+Content:	A-
+Teaching:	B
+Grading:	A-
+Workload:	D+
+
+
+Rating of COMP4521:
+Content:	B
+Teaching:	A
+Grading:	B
+Workload:	D
+
+
+Rating of COMP1029A:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	A-
+
+
+Rating of COMP2611:
+Content:	B+
+Teaching:	B-
+Grading:	C+
+Workload:	B+
+
+
+Rating of COMP1029J:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of CENG1500:
+Content:	A-
+Teaching:	B
+Grading:	A
+Workload:	A
+
+
+Rating of CENG4620:
+Content:	B
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of CENG3230:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	C+
+
+
+Rating of CENG1700:
+Content:	B
+Teaching:	B-
+Grading:	B-
+Workload:	C
+
+
+Rating of CENG1600:
+Content:	B
+Teaching:	B
+Grading:	A-
+Workload:	C+
+
+
+Rating of CENG1000:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of CENG2110:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of CENG1800:
+Content:	A
+Teaching:	A-
+Grading:	A
+Workload:	C
+
+
+Rating of CENG2220:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of CENG4130:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of CENG5210:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	A
+
+
+Rating of CENG4710:
+Content:	B
+Teaching:	C-
+Grading:	B
+Workload:	B-
+
+
+Rating of CENG2210:
+Content:	A-
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of civl2020:
+Content:	B+
+Teaching:	B
+Grading:	A-
+Workload:	C
+
+
+Rating of civl2410:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	A
+
+
+Rating of civl2170:
+Content:	A-
+Teaching:	D
+Grading:	A
+Workload:	B
+
+
+Rating of civl2510:
+Content:	C+
+Teaching:	B-
+Grading:	C+
+Workload:	C+
+
+
+Rating of civl3320:
+Content:	B
+Teaching:	B
+Grading:	C
+Workload:	C
+
+
+Rating of civl4470:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	C+
+
+
+Rating of civl4620:
+Content:	A
+Teaching:	B
+Grading:	A-
+Workload:	A
+
+
+Rating of civl4750:
+Content:	A-
+Teaching:	B
+Grading:	A
+Workload:	B-
+
+
+Rating of civl1100:
+Content:	B
+Teaching:	C+
+Grading:	A-
+Workload:	B
+
+
+Rating of civl1170:
+Content:	B-
+Teaching:	C-
+Grading:	B+
+Workload:	C+
+
+
+Rating of civl1160:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of civl2110:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of civl3510:
+Content:	D-
+Teaching:	E+
+Grading:	D-
+Workload:	D-
+
+
+Rating of civl4700:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	B
+
+
+Rating of civl2810:
+Content:	B+
+Teaching:	C-
+Grading:	B-
+Workload:	C+
+
+
+Rating of civl2150:
+Content:	C
+Teaching:	C
+Grading:	C
+Workload:	C
+
+
+Rating of civl1140:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	B-
+
+
+Rating of civl2160:
+Content:	C-
+Teaching:	C+
+Grading:	B-
+Workload:	B-
+
+
+Rating of civl2120:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	C+
+
+
+Rating of civl3310:
+Content:	A-
+Teaching:	A
+Grading:	B
+Workload:	A-
+
+
+Rating of ENGG2010:
+Content:	B-
+Teaching:	B-
+Grading:	A-
+Workload:	B
+
+
+Rating of ENGG2990D:
+Content:	B-
+Teaching:	B
+Grading:	A-
+Workload:	B-
+
+
+Rating of ENGG1100:
+Content:	B+
+Teaching:	C+
+Grading:	C+
+Workload:	D-
+
+
+Rating of ENGG1200:
+Content:	B+
+Teaching:	B-
+Grading:	B+
+Workload:	B
+
+
+Rating of ENGG1010:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	A-
+
+
+Rating of ENGG1150:
+Content:	B
+Teaching:	C+
+Grading:	A-
+Workload:	C-
+
+
+Rating of ENGG1130:
+Content:	C+
+Teaching:	C-
+Grading:	B+
+Workload:	C+
+
+
+Rating of ENGG1110:
+Content:	C
+Teaching:	C
+Grading:	B+
+Workload:	C+
+
+
+Rating of IELM3130:
+Content:	B
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of IELM2200:
+Content:	B+
+Teaching:	B
+Grading:	B-
+Workload:	B+
+
+
+Rating of IELM2510:
+Content:	B+
+Teaching:	C+
+Grading:	B+
+Workload:	B-
+
+
+Rating of IELM3150:
+Content:	A-
+Teaching:	C-
+Grading:	C-
+Workload:	C-
+
+
+Rating of IELM2010:
+Content:	A-
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of IELM3010:
+Content:	B
+Teaching:	C+
+Grading:	B+
+Workload:	B+
+
+
+Rating of IELM3300:
+Content:	B-
+Teaching:	B
+Grading:	A-
+Workload:	A
+
+
+Rating of IELM4320:
+Content:	A
+Teaching:	A
+Grading:	A-
+Workload:	C+
+
+
+Rating of IELM3330:
+Content:	C
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of IELM2150:
+Content:	B-
+Teaching:	B
+Grading:	B
+Workload:	C-
+
+
+Rating of IELM4410:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B
+
+
+Rating of IELM4200:
+Content:	A
+Teaching:	B-
+Grading:	B
+Workload:	C
+
+
+Rating of ELEC2200:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B
+
+
+Rating of ELEC2400:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	A-
+
+
+Rating of ELEC2100H:
+Content:	B-
+Teaching:	A-
+Grading:	B
+Workload:	C
+
+
+Rating of ELEC1100:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	B-
+
+
+Rating of ELEC1200:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	C
+
+
+Rating of ELEC1010:
+Content:	B+
+Teaching:	B
+Grading:	A-
+Workload:	B+
+
+
+Rating of ELEC2420:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	B+
+
+
+Rating of ELEC3300:
+Content:	A-
+Teaching:	B
+Grading:	A
+Workload:	C-
+
+
+Rating of ELEC3500:
+Content:	A-
+Teaching:	B+
+Grading:	A
+Workload:	A-
+
+
+Rating of ELEC3200:
+Content:	B+
+Teaching:	C+
+Grading:	B+
+Workload:	B-
+
+
+Rating of ELEC2100:
+Content:	B+
+Teaching:	B-
+Grading:	A-
+Workload:	B-
+
+
+Rating of ELEC3400:
+Content:	B
+Teaching:	B
+Grading:	A
+Workload:	B
+
+
+Rating of ELEC3100:
+Content:	B-
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of ELEC2600:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of ELEC2600H:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	A
+
+
+Rating of ELEC2300:
+Content:	B+
+Teaching:	B
+Grading:	B
+Workload:	A-
+
+
+Rating of ELEC1020:
+Content:	B+
+Teaching:	B-
+Grading:	B
+Workload:	D+
+
+
+Rating of MECH1907:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of MECH3830:
+Content:	B
+Teaching:	B
+Grading:	A
+Workload:	B-
+
+
+Rating of MECH2040:
+Content:	B
+Teaching:	B+
+Grading:	B-
+Workload:	A-
+
+
+Rating of MECH1902:
+Content:	B+
+Teaching:	B+
+Grading:	B
+Workload:	B+
+
+
+Rating of MECH1901:
+Content:	A-
+Teaching:	C+
+Grading:	B
+Workload:	B+
+
+
+Rating of MECH2410:
+Content:	B-
+Teaching:	B
+Grading:	B-
+Workload:	C-
+
+
+Rating of MECH3650:
+Content:	B
+Teaching:	D+
+Grading:	B-
+Workload:	C+
+
+
+Rating of MECH3520:
+Content:	B-
+Teaching:	C-
+Grading:	B+
+Workload:	C-
+
+
+Rating of MECH1905:
+Content:	C+
+Teaching:	C
+Grading:	B+
+Workload:	B-
+
+
+Rating of MECH3030:
+Content:	C+
+Teaching:	D-
+Grading:	B-
+Workload:	D+
+
+
+Rating of MECH2210:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of MECH3630:
+Content:	C+
+Teaching:	C
+Grading:	C+
+Workload:	B
+
+
+Rating of MECH2020:
+Content:	B+
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of MECH3420:
+Content:	B
+Teaching:	E
+Grading:	B-
+Workload:	B-
+
+
+Rating of MECH3300:
+Content:	C
+Teaching:	D+
+Grading:	B+
+Workload:	B+
+
+
+Rating of MECH2520:
+Content:	B
+Teaching:	C+
+Grading:	B
+Workload:	D
+
+
+Rating of MECH1906:
+Content:	C-
+Teaching:	D+
+Grading:	B-
+Workload:	B
+
+
+Rating of MECH2310:
+Content:	B
+Teaching:	C+
+Grading:	B+
+Workload:	B+
+
+
+Rating of MECH3640:
+Content:	A
+Teaching:	A
+Grading:	A-
+Workload:	A-
+
+
+Rating of MECH4000F:
+Content:	C
+Teaching:	D
+Grading:	C
+Workload:	D-
+
+
+Rating of MECH3610:
+Content:	B
+Teaching:	B-
+Grading:	A-
+Workload:	B-
+
+
+Rating of MECH3310:
+Content:	A-
+Teaching:	B+
+Grading:	A-
+Workload:	C+
+

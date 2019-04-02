@@ -1,0 +1,721 @@
+
+Rating of ACCT2200:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of ACCT2010:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	B
+
+
+Rating of ACCT3010:
+Content:	B+
+Teaching:	C
+Grading:	B-
+Workload:	B-
+
+
+Rating of ACCT1010:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of ACCT4010:
+Content:	C+
+Teaching:	B
+Grading:	A-
+Workload:	B+
+
+
+Rating of ACCT3020:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	A-
+
+
+Rating of ACCT3880:
+Content:	B
+Teaching:	C+
+Grading:	B+
+Workload:	B
+
+
+Rating of ACCT3030:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of ACCT3210:
+Content:	B
+Teaching:	A-
+Grading:	A
+Workload:	B
+
+
+Rating of ACCT4510:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B
+
+
+Rating of ACCT3610:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of ISOM3320:
+Content:	A-
+Teaching:	B+
+Grading:	B-
+Workload:	C-
+
+
+Rating of ISOM2700:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of ISOM1380:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of ISOM1700:
+Content:	B+
+Teaching:	B+
+Grading:	B
+Workload:	B-
+
+
+Rating of ISOM3180:
+Content:	A-
+Teaching:	A
+Grading:	B
+Workload:	B+
+
+
+Rating of ISOM4020:
+Content:	B+
+Teaching:	A
+Grading:	A-
+Workload:	B-
+
+
+Rating of ISOM1090:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of ISOM3360:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of ISOM2400:
+Content:	B
+Teaching:	B+
+Grading:	B+
+Workload:	A-
+
+
+Rating of ISOM1500:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of ISOM2010:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B+
+
+
+Rating of ISOM3260:
+Content:	A
+Teaching:	A
+Grading:	B+
+Workload:	D
+
+
+Rating of ISOM4750:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of ISOM3010:
+Content:	B
+Teaching:	B-
+Grading:	B-
+Workload:	B
+
+
+Rating of ISOM3100:
+Content:	B+
+Teaching:	B+
+Grading:	A-
+Workload:	A-
+
+
+Rating of ISOM3370:
+Content:	C
+Teaching:	C
+Grading:	B
+Workload:	B
+
+
+Rating of ISOM2030:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of ISOM3540:
+Content:	B-
+Teaching:	B-
+Grading:	B-
+Workload:	C+
+
+
+Rating of ISOM3730:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	A-
+
+
+Rating of ISOM2500:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	B
+
+
+Rating of ISOM4810:
+Content:	B
+Teaching:	A-
+Grading:	B
+Workload:	D-
+
+
+Rating of ISOM4820:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	C
+
+
+Rating of ISOM3760:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B-
+
+
+Rating of ISOM4100:
+Content:	B+
+Teaching:	B-
+Grading:	A-
+Workload:	B
+
+
+Rating of ISOM3710:
+Content:	A-
+Teaching:	B
+Grading:	B+
+Workload:	B+
+
+
+Rating of ISOM3210:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of ISOM3230:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of ISOM2310:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	B+
+
+
+Rating of ISOM4300:
+Content:	B
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of ISOM4740:
+Content:	B
+Teaching:	A-
+Grading:	A
+Workload:	B
+
+
+Rating of ISOM3310:
+Content:	B
+Teaching:	D
+Grading:	B+
+Workload:	B-
+
+
+Rating of ECON2103:
+Content:	B+
+Teaching:	B+
+Grading:	B
+Workload:	B+
+
+
+Rating of ECON3123:
+Content:	A-
+Teaching:	B
+Grading:	A-
+Workload:	A-
+
+
+Rating of ECON2174:
+Content:	A-
+Teaching:	A-
+Grading:	A
+Workload:	A-
+
+
+Rating of ECON3334:
+Content:	B-
+Teaching:	B-
+Grading:	B+
+Workload:	B+
+
+
+Rating of ECON3014:
+Content:	A-
+Teaching:	B+
+Grading:	B+
+Workload:	A-
+
+
+Rating of ECON3143:
+Content:	B
+Teaching:	B-
+Grading:	B-
+Workload:	B
+
+
+Rating of ECON4124:
+Content:	A
+Teaching:	C
+Grading:	B
+Workload:	B
+
+
+Rating of ECON4284:
+Content:	A-
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of ECON3024:
+Content:	C+
+Teaching:	C+
+Grading:	C+
+Workload:	B+
+
+
+Rating of ECON2113:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B+
+
+
+Rating of ECON2123:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B+
+
+
+Rating of ECON3113:
+Content:	B+
+Teaching:	A-
+Grading:	B+
+Workload:	B-
+
+
+Rating of ECON2310:
+Content:	A
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of FINA1303:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	B-
+
+
+Rating of FINA3403:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	C-
+
+
+Rating of FINA2303:
+Content:	B+
+Teaching:	B+
+Grading:	B
+Workload:	B-
+
+
+Rating of FINA3204:
+Content:	A
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of FINA3103:
+Content:	B-
+Teaching:	C
+Grading:	C-
+Workload:	B
+
+
+Rating of FINA3504:
+Content:	B
+Teaching:	A-
+Grading:	B-
+Workload:	C-
+
+
+Rating of FINA4503:
+Content:	B+
+Teaching:	A-
+Grading:	C
+Workload:	B+
+
+
+Rating of FINA4104:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	B+
+
+
+Rating of FINA2203:
+Content:	B+
+Teaching:	B-
+Grading:	B-
+Workload:	C+
+
+
+Rating of FINA1203:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B
+
+
+Rating of FINA3104:
+Content:	A-
+Teaching:	A-
+Grading:	B-
+Workload:	B-
+
+
+Rating of FINA3404:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	B-
+
+
+Rating of FINA3303:
+Content:	A-
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of FINA3203:
+Content:	A-
+Teaching:	B+
+Grading:	B+
+Workload:	B+
+
+
+Rating of FINA4403:
+Content:	A-
+Teaching:	A
+Grading:	A
+Workload:	B
+
+
+Rating of MARK3470:
+Content:	B
+Teaching:	A
+Grading:	B
+Workload:	B-
+
+
+Rating of MARK4450:
+Content:	A-
+Teaching:	A-
+Grading:	B+
+Workload:	B+
+
+
+Rating of MARK3430:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	C-
+
+
+Rating of MARK1230:
+Content:	A
+Teaching:	A
+Grading:	C
+Workload:	C
+
+
+Rating of MARK4290D:
+Content:	B-
+Teaching:	C+
+Grading:	B
+Workload:	B
+
+
+Rating of MARK3410:
+Content:	C+
+Teaching:	B-
+Grading:	C-
+Workload:	C+
+
+
+Rating of MARK1220:
+Content:	A-
+Teaching:	A-
+Grading:	A-
+Workload:	A-
+
+
+Rating of MARK3420:
+Content:	B+
+Teaching:	B-
+Grading:	B
+Workload:	B-
+
+
+Rating of MARK3510:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A-
+
+
+Rating of MARK3520:
+Content:	B-
+Teaching:	B-
+Grading:	A-
+Workload:	E
+
+
+Rating of MARK1330:
+Content:	B-
+Teaching:	B-
+Grading:	B-
+Workload:	B-
+
+
+Rating of MARK3220:
+Content:	B
+Teaching:	B-
+Grading:	B
+Workload:	C+
+
+
+Rating of MARK4290E:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	A
+
+
+Rating of MARK2120:
+Content:	B+
+Teaching:	B+
+Grading:	B-
+Workload:	B-
+
+
+Rating of SBMT2020:
+Content:	C
+Teaching:	D
+Grading:	C
+Workload:	B
+
+
+Rating of SBMT2010:
+Content:	B-
+Teaching:	B
+Grading:	B
+Workload:	C+
+
+
+Rating of SBMT3300:
+Content:	A
+Teaching:	A
+Grading:	A
+Workload:	A
+
+
+Rating of SBMT1111:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	A-
+
+
+Rating of SBMT5010:
+Content:	B
+Teaching:	B
+Grading:	B
+Workload:	B
+
+
+Rating of MGMT3130:
+Content:	A-
+Teaching:	A
+Grading:	A-
+Workload:	A
+
+
+Rating of MGMT3170:
+Content:	D
+Teaching:	E
+Grading:	C
+Workload:	E
+
+
+Rating of MGMT2010:
+Content:	B-
+Teaching:	B
+Grading:	B
+Workload:	C+
+
+
+Rating of MGMT4220:
+Content:	C-
+Teaching:	D+
+Grading:	C-
+Workload:	D-
+
+
+Rating of MGMT1120:
+Content:	B+
+Teaching:	B+
+Grading:	B+
+Workload:	B-
+
+
+Rating of MGMT2110:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of MGMT3140:
+Content:	A-
+Teaching:	A
+Grading:	B+
+Workload:	A-
+
+
+Rating of MGMT3120:
+Content:	A-
+Teaching:	B
+Grading:	A-
+Workload:	A
+
+
+Rating of MGMT2130:
+Content:	B+
+Teaching:	A-
+Grading:	A-
+Workload:	B-
+
+
+Rating of MGMT4240:
+Content:	D
+Teaching:	D
+Grading:	C
+Workload:	A
+
+
+Rating of MGMT1130:
+Content:	A
+Teaching:	A
+Grading:	B
+Workload:	A
+
+
+Rating of MGMT1110:
+Content:	B+
+Teaching:	B+
+Grading:	B
+Workload:	B+
+
+
+Rating of MGMT3110:
+Content:	B-
+Teaching:	C+
+Grading:	B
+Workload:	B-
+
+
+Rating of MGMT4210:
+Content:	B-
+Teaching:	B+
+Grading:	A-
+Workload:	B+
+
